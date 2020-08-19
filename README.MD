@@ -7,11 +7,11 @@ Some sensitive data has been *removed*.
 ### Members
 Name | zID | role
 -----|-----|-----
-Xiaowei Zhou | z5108173 | Scrum Master/Developer
-Keyu Yang | z5177443 | Developer
-Lisha Jing | z5243620 | Developer
-Nan Zhao | z5225777 | Developer
-Qingbei Wu | z5222641 | Developer
+XZhou | z510**** | Scrum Master/Developer
+KYang | z517**** | Developer
+LJing | z524**** | Developer
+NZhao | z52****  | Developer
+QWu   | z52****  | Developer
 ### Notification
 1. You should **always** create your own branch and use **Pull Request** to merge code into Master branch instead of directly merge and push.
 2. Make sure you frequently **sync the updates** from Master branch to your own branch - maybe use **Pull Request** as well.
